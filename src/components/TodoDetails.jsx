@@ -1,6 +1,6 @@
 import { toast } from "react-toastify";
 import { useToDoStore } from "../store"
-import { TodoDetailItem } from "./todoDetailItem"
+import { TodoDetailItem } from "./TodoDetailItem"
 
 export const TodoDetails = ({ thing }) => {
 
